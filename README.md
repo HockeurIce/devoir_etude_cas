@@ -1,1 +1,2 @@
-# devoir_etude_cas
+# Etude de cas
+Voici un projet de calculatrice avec Laravel, php et PHPDoc
